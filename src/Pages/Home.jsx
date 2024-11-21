@@ -3,8 +3,6 @@ import HomeCarousel from "../components/HomeCarousel";
 import HomeCarosuseSection from "../components/HomeCarosuseSection";
 import { mens_kurta } from "../data/mens_kurta";
 import Footer from "../components/Footer";
-import BannerSection from "../components/HomeBanner";
-import HomeNavbar from "../components/HomeNav";
 import ProductCarousel from "../components/ProductsCarousel";
 import GridBanner from "../components/Home/GridBanner";
 import HomeBrandInfo from "../components/Home/HomeBrandInfo";
@@ -13,9 +11,7 @@ import GridBottom from "../components/Home/GridBottom";
 const HomePage = () => {
   return (
     <div>
-      {/* <HomeNavbar /> */}
       <div>
-        {/* <BannerSection/> */}
         <HomeCarousel />
       </div>
 

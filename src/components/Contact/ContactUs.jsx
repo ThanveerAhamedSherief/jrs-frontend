@@ -53,7 +53,7 @@ const ContactUsPage = () => {
             <div className="space-y-4 text-white">
               <div className="flex items-center space-x-2">
                 <Phone color="primary" sx={{color: 'yellow'}} />
-                <Typography>+1 234 567 890</Typography>
+                <Typography>+91 9600561343</Typography>
               </div>
               <div className="flex items-center space-x-2">
                 <Email color="primary" sx={{color: 'yellow'}}/>
@@ -61,7 +61,7 @@ const ContactUsPage = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <LocationOn color="primary" sx={{color: 'yellow'}}/>
-                <Typography>123 Business St, City, Country</Typography>
+                <Typography>Anaicut St, near vinayagar temple, Bharathi Nagar, Walajapet, Walajah, Tamil Nadu 632513</Typography>
               </div>
             </div>
 
