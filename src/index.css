@@ -1,0 +1,7 @@
+
+/* In your index.css or App.css */
+@import 'react-alice-carousel/lib/alice-carousel.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
